@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* tiny reset so the canvas fills the screen */
+html, body, #root { height: 100%; }
